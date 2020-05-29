@@ -1,0 +1,16 @@
+M1T1 (Hello World) - due 5/31
+
+Download the instructions for M1T1 (Hello World) here. CSC134_M1T1_Instructions.docx 
+You may wish to refer to this video: https://youtu.be/qV8vyRi8XBg
+
+Future videos will not be 480p, so they should be easier to read. 
+The assignment as listed in the Word doc is slightly different from the one in the 
+video, but it covers all the steps, from opening repl.it, to typing in and running 
+code, to saving the source code in a ZIP and taking a screenshot.
+
+repl.it Link: http://repl.it
+
+This assignment involves writing a very simple program, but it also covers the 
+basics of how to submit assignments for this class. Please make sure you have 
+submitted the files M1T1_lastname.zip and M1T1_lastname.png (or .gif) to this 
+submission link
