@@ -1,0 +1,54 @@
+
+
+M1HW1 (Movie Talk) - due 6/3
+
+For this assignment, pick a movie you enjoy (or just a movie you can easily 
+find information about)
+
+Your program will use cout and variables to briefly talk about this movie. 
+If you look at "Apple Orchard" and remove the part where it calculates the 
+total price of all the apples, that's a pretty similar program in terms of 
+how it operates, even though it's about apples instead of movies.
+
+You should name and create the following variables:
+
+    something to hold the name of the movie
+    something to hold the year that it came out
+    something to hold the box office gross or some other monetary figure 
+	about the movie (using a decimal point)
+
+For example: The movie "Titanic" came out in 1997, and had a worldwide gross 
+of around 2.18 billion dollars.
+
+Your program should then use cout along with these variables to give a brief 
+summary of info about the movie.
+
+Finally, you should use cout to print a few lines that are quotes from the 
+movie, your favorite scene, or just a bit of information that you found 
+interesting. This should be 4-5 lines of text in total, and it should include 
+one or more quotes.
+
+This file should be submitted as the source code, along with a screenshot of 
+the program running, with files named in the usual format (which is in this 
+case M1HW1_Lastname.*)
+
+Additional Notes
+
+What if you want to use the quotation symbol when writing out movie quotes?
+
+We have seen that the quotation symbol is reserved for starting and ending 
+strings
+
+cout << "Like this" << endl
+
+But it's possible to actually use the quote mark itself within a string. 
+It's done by typing \" (backslash, quote) which escapes the quote symbol 
+so that it no longer has a special meaning in that one case.
+
+cout << "John said, \"Like this.\" and waved."
+
+Sources for Movie Info
+
+This one time, you get a pass if you want to use Wikipedia. (Wikipedia isn't 
+the best place to get 100% accurate technical information, but for movies, 
+it should be fine.) IMDB is another option. 

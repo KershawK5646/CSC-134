@@ -1,0 +1,20 @@
+
+
+M1LAB (Apple Orchard) - due 6/3
+
+Full instructions: CSC134_M1LAB.docx CSC134_M1LAB.docx - Alternative Formats
+You may wish to reference this video: https://youtu.be/8b3SxFzOs9g
+
+For this assignment we pretend we've been hired by an apple salesperson to 
+write a program to advertise their products. (In this case, it's the fruit, 
+not the company.)
+
+The salesperson's name is Jane Smith, and she has 100 apples for sale. Each 
+apple costs 25 cents.
+
+Our goal is to use repl.it to write a program which displays the salesperson's 
+store name, the number of apples, price per apple, and the price to purchase 
+all of them at once.
+
+Submit your source code along with a screenshot of the running program using 
+the format discussed in the previous assignment.
